@@ -1,0 +1,14 @@
+# Spring Boot
+backend/target/
+backend/.idea/
+backend/.mvn/
+backend/mvnw*
+backend/logs/
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+
+# System files
+*.log
+.DS_Store
